@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arivazhagan A</h1>
 <h3 align="center">Devops Engineer from India</h3>
+<img align="right" alt="Coding" width="400" src=""C:/Users/91737/Pictures/LinkedIn Banner.jpeg"">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arivaza97&label=Profile%20views&color=0e75b6&style=flat" alt="arivaza97" /> </p>
 
